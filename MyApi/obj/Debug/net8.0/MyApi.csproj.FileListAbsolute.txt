@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.AssemblyInfo.cs
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\DotNet\MyApi\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
